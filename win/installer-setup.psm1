@@ -6,7 +6,7 @@ function Install-Extension {
 
     $install = ""
     if ($null -ne $profileName) {
-        $install = "code --profile $profileName -and "
+        $install += "code --profile $profileName -and "
     }
     $install += "code --install-extension $extensionId"
     Invoke-Expression $install
