@@ -1,0 +1,54 @@
+{
+    "html_xml": [
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag"
+    ],
+    "html_css": [
+        "pranaygp.vscode-css-peek",
+        "ecmel.vscode-html-css"
+    ],
+    "laravel": [
+        "onecentlin.laravel-blade",
+        "austenc.laravel-blade-spacer",
+        "amiralizadeh9480.laravel-extra-intellisense",
+        "codingyu.laravel-goto-view",
+        "naoray.laravel-goto-components"       
+    ],
+    "latex": [
+        "James-Yu.latex-workshop"
+    ],
+    "linter": [
+        "SonarSource.sonarlint-vscode"
+    ],
+    "markdown": [
+        "yzhang.markdown-all-in-one",
+        "DavidAnson.vscode-markdownlint"
+    ],
+    "php": [
+        "DEVSENSE.composer-php-vscode",
+        "xdebug.php-debug",
+        "neilbrayfield.php-docblocker",
+        "bmewburn.vscode-intelephense-client",
+        "MehediDracula.php-namespace-resolver"
+    ],
+    "python": [
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "ms-python.debugpy"
+    ],
+    "scripting": [
+        "ms-vscode.powershell"
+    ],
+    "utils": [
+        "vscodevim.vim",
+        "wayou.vscode-todo-highlight",
+        "PKief.material-icon-theme",
+        [
+            "yzhang.markdown-all-in-one",
+            "DavidAnson.vscode-markdownlint"
+        ]
+    ],
+    "zig": [
+        "ziglang.vscode-zig"
+    ] 
+}
